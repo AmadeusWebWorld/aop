@@ -1,0 +1,12 @@
+#key	value
+name	AmadeusWeb | AoP
+byline	All Is Possible
+safeName	amadeusweb-aop
+iconName	AW Action
+footer-message	Preparing for our own Action Oriented Project.
+siteMenuName	AW In Action
+sections	roadmap, planner, faqs
+sections_bl	dawn: docs+concepts+features, usage: who+why+how, need: alliances+sites+roadmap+planner, cns: forum+faqs+ee-board
+local-url	http://localhost/alliance-of/sites/aop/
+live-url	https://aop.amadeusweb.world/
+year	2025
