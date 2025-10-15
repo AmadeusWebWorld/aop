@@ -1,3 +1,3 @@
 # Welcome to %siteName%
 
-This Is Uma
+This Is US
